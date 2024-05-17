@@ -1,2 +1,2 @@
 # terraform-basics
-terraform basics
+Terraform Configuration Langauge Syntax
